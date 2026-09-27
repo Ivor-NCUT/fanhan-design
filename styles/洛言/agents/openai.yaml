@@ -1,0 +1,4 @@
+interface:
+  display_name: "洛言"
+  short_description: "暖白、深绿与书写感标题的横屏和竖屏视觉"
+  default_prompt: "使用洛言视觉语言，按当前内容重新排版为指定画幅。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "泛函个人网站设计"
+  short_description: "从个人网站源码提炼视觉语言的原版设计方法"
+  default_prompt: "使用泛函个人网站设计风格，从网页源码提炼设计语言并制作物料。"

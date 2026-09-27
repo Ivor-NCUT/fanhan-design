@@ -1,5 +1,5 @@
 interface:
-  display_name: "Victor Design System"
-  short_description: "Reference-led craft across posters, decks, editorial, and UI"
-  brand_color: "#C24127"
-  default_prompt: "Use $victor-design-system to build a reference-level, richly authored visual artifact for this carrier."
+  display_name: "泛函设计风格"
+  short_description: "洛言与泛函个人网站设计的可编辑视觉交付"
+  brand_color: "#00673D"
+  default_prompt: "使用 $fanhan-design-style，根据任务选择洛言或泛函个人网站设计，制作可编辑视觉物料。"
