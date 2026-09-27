@@ -6,6 +6,8 @@
 - [已选标题样式](references/title-styles.md)：D 小标题与 E PPT 标题页的适用场景和颜色。
 - [两款可编辑 HTML 参考](assets/html-starters/fanhan-title-styles.html)：D 已加深“去前沿”；E 为 16:9 PPT 版式。
 
+设计物料需要创作或修改文案时，调用 [泛函内容风格 Skill](https://github.com/Ivor-NCUT/fanhan-content-style)；当前环境未安装时，先从该仓库根目录安装。两套规则各自在原仓库维护。
+
 新任务先以这些已确认的品牌材料为依据。下方保留上游 Victor Design 的通用框架说明。
 
 ## 上游框架

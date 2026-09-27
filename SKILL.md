@@ -14,6 +14,12 @@ description: 证据驱动的跨载体视觉设计与交付系统。用于海报�
 D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对应场景下优先于
 `references/style-evidence.md` 中的 Victor 默认视觉证据。其他任务继续使用下述通用框架。
 
+泛函设计物料需要生成、改写或筛选文案时，先检查当前环境是否已安装
+[`fanhan-content-style`](https://github.com/Ivor-NCUT/fanhan-content-style)。已安装就读取并调用；
+未安装就用当前环境的 Skill 安装器从该仓库根目录安装，再读取其 `SKILL.md`。
+文案语气以该 Skill 为准，视觉与版式仍由本 Skill 负责。用户给出不可改的定稿时直接排版；
+不为纯视觉任务安装写作 Skill，也不把对方的规则复制进本仓库。
+
 ## First principle — the richness chain
 
 Understand the person, situation, tension, material world, and irreplaceable
