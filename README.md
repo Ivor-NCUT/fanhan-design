@@ -1,3 +1,17 @@
+# 泛函｜引力边缘设计体系
+
+本仓库沿用 Victor Design 的目录与执行框架；泛函的品牌判断和已确认样式以以下文件为准：
+
+- [视觉设计体系（文字版 v2）](references/fanhan-brand-system.md)：品牌情绪、排版、字体角色、颜色 token、摄影和四类载体规则。
+- [已选标题样式](references/title-styles.md)：D 小标题与 E PPT 标题页的适用场景和颜色。
+- [两款可编辑 HTML 参考](assets/html-starters/fanhan-title-styles.html)：D 已加深“去前沿”；E 为 16:9 PPT 版式。
+
+新任务先以这些已确认的品牌材料为依据。下方保留上游 Victor Design 的通用框架说明。
+
+## 上游框架
+
+Victor Design 原项目：[victorzhang016-code/victor-design](https://github.com/victorzhang016-code/victor-design)。本仓库的安装地址应使用 `Ivor-NCUT/fanhan-design`；下方原项目安装示例仅用于说明来源。
+
 # Victor Design
 
 Victor Design is a human-centered visual design workflow for AI agents. It understands the subject and the task first, then chooses the form, content, and visual language before delivering work that can be reviewed and edited.

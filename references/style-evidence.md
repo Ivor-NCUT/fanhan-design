@@ -1,5 +1,13 @@
 # Victor style evidence
 
+## 泛函｜引力边缘已确认视觉证据
+
+当前品牌需求与图像参考见 [`fanhan-brand-system.md`](fanhan-brand-system.md)。
+用户已选定 D（小标题）和 E（PPT 标题页）；用途、颜色和可编辑样本见
+[`title-styles.md`](title-styles.md)。这些已确认决定只适用于泛函相关任务，
+并优先于下述 Victor 原始证据。不要把原始证据中的个人路径、旧配色或项目素材
+误作泛函的品牌资产。
+
 This is a source of judgment, not a preset. Select only evidence that serves
 the confirmed subject, audience, and medium. A project may inherit a principle,
 not a surface treatment. Record the source, confidence, role, and exception in

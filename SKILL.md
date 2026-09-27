@@ -5,6 +5,15 @@ description: 证据驱动的跨载体视觉设计与交付系统。用于海报�
 
 # Victor Design
 
+## 泛函品牌层
+
+处理「泛函」或「引力边缘」的视觉任务时，先读
+`references/fanhan-brand-system.md`；涉及文章小标题或 PPT 标题页时再读
+`references/title-styles.md` 和可编辑参考
+`assets/html-starters/fanhan-title-styles.html`。这两款样式已获用户认可：
+D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对应场景下优先于
+`references/style-evidence.md` 中的 Victor 默认视觉证据。其他任务继续使用下述通用框架。
+
 ## First principle — the richness chain
 
 Understand the person, situation, tension, material world, and irreplaceable
