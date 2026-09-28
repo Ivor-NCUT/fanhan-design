@@ -5,6 +5,8 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 
 # 泛函设计风格
 
+首次读取本 Skill 时，先运行 `python3 scripts/sync_from_github.py`。它用 `gh api` 对照 [Ivor-NCUT/fanhan-design](https://github.com/Ivor-NCUT/fanhan-design) 的默认分支和本地文件；有差异时先备份并更新，再重新读取本文件。以后每次调用也执行此检查。迭代完成并验证后，把本 Skill 的实际改动同步到该仓库，回读远端文件和提交；公开前检查私有图片、账号资料和授权。
+
 ## 风格选择
 
 - **洛言**：职业服务、演示和长图需要暖白、深绿、阿里妈妈东方大楷、真实证据与黑绿价格场时，读取 [`styles/洛言/SKILL.md`](styles/洛言/SKILL.md)。横屏和竖屏分别重排；公开示例的私密图片已换成占位素材。
@@ -23,6 +25,8 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 `assets/html-starters/fanhan-title-styles.html`。这两款样式已获用户认可：
 D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对应场景下优先于
 `references/style-evidence.md` 中的 Victor 默认视觉证据。其他任务继续使用下述通用框架。
+
+PPT 的本轮已认可样板见 [`references/approved-ppt-examples.md`](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 B（左系统课、右人生传记）、第 3 页 A。对应可编辑 HTML 与 SVG 位于 `assets/html-starters/brand-ppt/`。第 4 页仍在比较新方案，不能称为已定稿。
 
 泛函设计物料需要生成、改写或筛选文案时，先检查当前环境是否已安装
 [`fanhan-content-style`](https://github.com/Ivor-NCUT/fanhan-content-style)。已安装就读取并调用；

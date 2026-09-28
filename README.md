@@ -1,5 +1,7 @@
 # 泛函设计风格
 
+仓库地址：[Ivor-NCUT/fanhan-design](https://github.com/Ivor-NCUT/fanhan-design)。本机安装版每次使用前运行 `python3 scripts/sync_from_github.py`，通过 `gh api` 检查并更新到默认分支的最新版本；被替换的本地文件会留在 `.sync-backups/`。Skill 迭代验证后将改动同步回本仓库。
+
 本仓库包含两套具名风格，由根目录 [`SKILL.md`](SKILL.md) 统一路由：
 
 | 风格 | 用途 | 可编辑示例 |
@@ -18,6 +20,7 @@
 - [视觉设计体系（文字版 v2）](references/fanhan-brand-system.md)：品牌情绪、排版、字体角色、颜色 token、摄影和四类载体规则。
 - [已选标题样式](references/title-styles.md)：D 小标题与 E PPT 标题页的适用场景和颜色。
 - [两款可编辑 HTML 参考](assets/html-starters/fanhan-title-styles.html)：D 已加深“去前沿”；E 为 16:9 PPT 版式。
+- [已认可的 PPT 样板与反馈](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 B 的左右关系、第 3 页 A；[HTML/SVG](assets/html-starters/brand-ppt/)。第 3 页公开样板已将账号截图换成示意界面。
 
 设计物料需要创作或修改文案时，调用 [泛函内容风格 Skill](https://github.com/Ivor-NCUT/fanhan-content-style)；当前环境未安装时，先从该仓库根目录安装。两套规则各自在原仓库维护。
 
