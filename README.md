@@ -19,8 +19,8 @@
 
 - [视觉设计体系（文字版 v2）](references/fanhan-brand-system.md)：品牌情绪、排版、字体角色、颜色 token、摄影和四类载体规则。
 - [已选标题样式](references/title-styles.md)：D 小标题与 E PPT 标题页的适用场景和颜色。
-- [两款可编辑 HTML 参考](assets/html-starters/fanhan-title-styles.html)：D 已加深“去前沿”；E 为 16:9 PPT 版式。
-- [已认可的 PPT 样板与反馈](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 E「双 Bento」、第 3 页 A、第 4 页 B「灵感轨道」；[HTML/SVG](assets/html-starters/brand-ppt/)。第 3 页公开样板已将账号截图换成示意界面。
+- [标题样式 D/E](references/title-styles.md)：各自的 PNG、SVG、HTML 存在 [`assets/html-starters/title-styles/`](assets/html-starters/title-styles/)；原[两款合并 HTML 参考](assets/html-starters/fanhan-title-styles.html)保留。
+- [已认可的 PPT 样板与反馈](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 E「双 Bento」、第 3 页 A、第 4 页 B「灵感轨道」；每款的 [PNG/SVG/HTML](assets/html-starters/brand-ppt/) 同名同目录。第 3 页公开样板已将账号截图换成示意界面。
 
 设计物料需要创作或修改文案时，调用 [泛函内容风格 Skill](https://github.com/Ivor-NCUT/fanhan-content-style)；当前环境未安装时，先从该仓库根目录安装。两套规则各自在原仓库维护。
 

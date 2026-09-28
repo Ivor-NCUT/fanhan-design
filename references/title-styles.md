@@ -1,6 +1,11 @@
 # 已选标题样式（2026-09-27）
 
-源：[品牌设计需求文档](https://twoj0037lkv.feishu.cn/wiki/OFPmwgOxXimpk9k5HGacfHVCnnb)与用户对标题样板 D、E 的反馈。可编辑参考位于 [`../assets/html-starters/fanhan-title-styles.html`](../assets/html-starters/fanhan-title-styles.html)。
+源：[品牌设计需求文档](https://twoj0037lkv.feishu.cn/wiki/OFPmwgOxXimpk9k5HGacfHVCnnb)与用户对标题样板 D、E 的反馈。原合并参考位于 [`../assets/html-starters/fanhan-title-styles.html`](../assets/html-starters/fanhan-title-styles.html)；独立样板文件如下。
+
+| 样式 | PNG | SVG | HTML |
+| --- | --- | --- | --- |
+| D · 小标题 | [预览](../assets/html-starters/title-styles/D.png) | [矢量源](../assets/html-starters/title-styles/D.svg) | [可编辑页](../assets/html-starters/title-styles/D.html) |
+| E · PPT 标题页 | [预览](../assets/html-starters/title-styles/E.png) | [矢量源](../assets/html-starters/title-styles/E.svg) | [可编辑页](../assets/html-starters/title-styles/E.html) |
 
 | 样式 | 已确认用途 | 不变的结构 | 当前颜色 |
 | --- | --- | --- | --- |

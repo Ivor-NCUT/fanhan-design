@@ -26,7 +26,9 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对应场景下优先于
 `references/style-evidence.md` 中的 Victor 默认视觉证据。其他任务继续使用下述通用框架。
 
-PPT 的本轮已认可样板见 [`references/approved-ppt-examples.md`](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 E「双 Bento」、第 3 页 A、第 4 页 B「灵感轨道」。对应可编辑 HTML 与 SVG 位于 `assets/html-starters/brand-ppt/`。
+已认可的 D/E 独立样板按同名 `PNG + SVG + HTML` 存于 `assets/html-starters/title-styles/`。用户确认新设计样板后，将这三种实际文件放进该样板的同一目录，更新索引并运行 `python3 scripts/check_approved_visual_assets.py`，再检查画面；不能只写抽象风格描述或只保存 HTML。
+
+PPT 的本轮已认可样板见 [`references/approved-ppt-examples.md`](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 E「双 Bento」、第 3 页 A、第 4 页 B「灵感轨道」。对应 PNG、可编辑 SVG 与 HTML 位于 `assets/html-starters/brand-ppt/`。
 
 泛函设计物料需要生成、改写或筛选文案时，先检查当前环境是否已安装
 [`fanhan-content-style`](https://github.com/Ivor-NCUT/fanhan-content-style)。已安装就读取并调用；
