@@ -5,7 +5,7 @@ description: 泛函的暖白、深绿、书写感展示字与真实证据组合�
 
 # 洛言
 
-这套风格来自职业辅导服务长图与 12 页横屏演示的实际迭代。先确定一页的主判断和可公开的证据，再选择组件。示例见 [`examples/luoyan-landscape.html`](examples/luoyan-landscape.html) 与 [`examples/luoyan-portrait.html`](examples/luoyan-portrait.html)。示例里的图片、聊天与联系入口均为公开占位素材，不代表真实人物、案例或可扫描的二维码。
+这套风格来自职业辅导服务长图与 12 页横屏演示的实际迭代。先确定一页的主判断和可公开的证据，再选择组件。历史横屏样板：[PNG](examples/luoyan-landscape.png) · [SVG](examples/luoyan-landscape.svg) · [完整 HTML](examples/luoyan-landscape.html)；历史竖屏样板：[PNG](examples/luoyan-portrait.png) · [SVG](examples/luoyan-portrait.svg) · [完整 HTML](examples/luoyan-portrait.html)。PNG/SVG 是后来依据公开 HTML 重制的封面或结构预览；完整设计以 HTML 为源。示例里的图片、聊天与联系入口均为公开占位素材，不代表真实人物、案例或可扫描的二维码。
 
 ## 视觉语法
 

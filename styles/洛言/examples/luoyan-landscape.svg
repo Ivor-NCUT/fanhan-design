@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="洛言横屏封面样式预览">
+  <defs>
+    <linearGradient id="paper" x2="1" y2="1"><stop stop-color="#fafaf7"/><stop offset="1" stop-color="#edf1ed"/></linearGradient>
+    <linearGradient id="rule"><stop stop-color="#00b667"/><stop offset="1" stop-color="#00b667" stop-opacity="0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#paper)"/>
+  <rect x="70" y="56" width="6" height="32" rx="3" fill="#00b667"/>
+  <text x="90" y="80" fill="#00673d" font-family="PingFang SC, sans-serif" font-size="20" font-weight="700" letter-spacing="2">职业辅导服务 / FANHAN</text>
+  <g font-family="STKaiti, Kaiti SC, serif" font-size="78" font-weight="700">
+    <text x="105" y="248" fill="#202020">找到</text><text x="257" y="248" fill="#00673d">适合你</text><text x="485" y="248" fill="#202020">的机会</text>
+    <text x="105" y="348" fill="#202020">过上</text><text x="257" y="348" fill="#00673d">理想中</text><text x="485" y="348" fill="#202020">的生活</text>
+  </g>
+  <rect x="106" y="470" width="710" height="4" fill="url(#rule)"/>
+  <text x="107" y="545" fill="#777" font-family="PingFang SC, sans-serif" font-size="23">职业目标、岗位匹配与长期发展，一起想清楚。</text>
+  <rect x="870" y="158" width="320" height="430" rx="25" fill="#d9e6dc" stroke="#bad3c2"/>
+  <circle cx="1030" cy="300" r="72" fill="#9bb9a7"/>
+  <path d="M910 526c4-92 48-143 120-143s116 51 120 143" fill="#8eaa98"/>
+  <text x="1030" y="558" text-anchor="middle" fill="#466352" font-family="PingFang SC, sans-serif" font-size="16">公开占位肖像</text>
+  <text x="70" y="679" fill="#8b9a8e" font-family="PingFang SC, sans-serif" font-size="16">洛言 · 16:9 横屏封面参考</text>
+</svg>

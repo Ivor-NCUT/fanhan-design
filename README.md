@@ -17,6 +17,7 @@
 
 本仓库沿用 Victor Design 的目录与执行框架；泛函的品牌判断和已确认样式以以下文件为准：
 
+- [已认可设计资产索引](references/approved-design-assets.md)：8 组横屏、竖屏、标题与 PPT 样板的 PNG、SVG、HTML 对照。新设计先选相近样板修改；用户不满意或不适用时再做新版式。
 - [视觉设计体系（文字版 v2）](references/fanhan-brand-system.md)：品牌情绪、排版、字体角色、颜色 token、摄影和四类载体规则。
 - [已选标题样式](references/title-styles.md)：D 小标题与 E PPT 标题页的适用场景和颜色。
 - [标题样式 D/E](references/title-styles.md)：各自的 PNG、SVG、HTML 存在 [`assets/html-starters/title-styles/`](assets/html-starters/title-styles/)；原[两款合并 HTML 参考](assets/html-starters/fanhan-title-styles.html)保留。

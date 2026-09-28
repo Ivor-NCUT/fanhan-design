@@ -26,7 +26,9 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对应场景下优先于
 `references/style-evidence.md` 中的 Victor 默认视觉证据。其他任务继续使用下述通用框架。
 
-已认可的 D/E 独立样板按同名 `PNG + SVG + HTML` 存于 `assets/html-starters/title-styles/`。用户确认新设计样板后，将这三种实际文件放进该样板的同一目录，更新索引并运行 `python3 scripts/check_approved_visual_assets.py`，再检查画面；不能只写抽象风格描述或只保存 HTML。
+所有已认可样板先查 [`references/approved-design-assets.md`](references/approved-design-assets.md)。新任务若有相同载体、相近内容结构的已认可样板，先复制其 HTML/SVG 版式并替换当前任务的文案、图片和品牌色，保留构图关系；直接给用户看首版修改稿，无需为沿用版式再次求批准。用户不满意该版式，或现有样板确实不适用，再设计新版式。用户明确要求全新方案时直接按新方案做。
+
+用户确认喜欢某个新设计时，在该设计的同一目录保存同名 `HTML + PNG + SVG` 三份实际文件：PNG 为所见画面，HTML 与 SVG 为可编辑源；在 [`references/approved-design-assets.md`](references/approved-design-assets.md) 和对应专项参考中把三份文件互相链接并标明用途、版本。运行 `python3 scripts/check_approved_visual_assets.py` 并目视核对三者。不得只保存风格描述、截图或单份 HTML；历史文件若不能完整复原，明确标注补制预览与原件的区别。
 
 PPT 的本轮已认可样板见 [`references/approved-ppt-examples.md`](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 E「双 Bento」、第 3 页 A、第 4 页 B「灵感轨道」。对应 PNG、可编辑 SVG 与 HTML 位于 `assets/html-starters/brand-ppt/`。
 
@@ -53,7 +55,7 @@ soul of the subject before choosing a visual direction. Then, in order:
 
 `references/workflow/density-and-care.md` owns the full method: what to add
 when the brief is thin, the benchmark obligation, and the density targets.
-Never begin from a style label, asset recipe, template, or AI spectacle.
+For Fanhan work, begin from an applicable user-approved template as directed above; otherwise do not begin from a style label, asset recipe, generic template, or AI spectacle.
 
 ## Form sanity backstop — run before every adapter
 
@@ -147,9 +149,9 @@ and external defaults.
 - A generated or found object is input material, not a poster. Process, crop,
   grade, mask, and seat it inside an authored canvas that still works with
   the object hidden.
-- Derive every palette and type voice from current-subject evidence. A prior
-  success is not evidence for a new project unless reuse is explicitly
-  justified and approved.
+- Derive palette and type voice from current-subject evidence. The user has
+  approved template-first reuse for comparable Fanhan designs; adapt colors
+  and content to the current task, and do not carry over stale facts.
 - Title, required copy, source evidence, and refusal list are source of
   truth. No filler metadata or uncaused devices; factual inscriptions are
   carried as crafted small type.
