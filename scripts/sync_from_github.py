@@ -18,7 +18,8 @@ def api(path):
     env = {**os.environ, "GODEBUG": "http2client=0"}
     for attempt in range(3):
         try:
-            return json.loads(subprocess.check_output(["gh", "api", f"{REPO}/{path}"], text=True, env=env))
+            endpoint = f"{REPO}/{path}" if path else REPO
+            return json.loads(subprocess.check_output(["gh", "api", endpoint], text=True, env=env))
         except subprocess.CalledProcessError:
             if attempt == 2:
                 raise
