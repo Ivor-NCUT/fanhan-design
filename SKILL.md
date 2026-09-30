@@ -5,6 +5,10 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 
 # 泛函设计风格
 
+## 跨仓 Context OS
+
+本仓库只负责“怎么呈现”。设计中涉及泛函当前事实时，按 [`context-os.json`](context-os.json) 找到私有 `Ivor-NCUT/all-about-fanhan`，只读取相关且已核实的事实；公开物料只能使用该仓 `public/` 中再次核实的信息。读不到私有仓时使用用户给出的本次事实，不从旧样板推断当前业务状态。需要新写或改写文案时按清单调用 `Ivor-NCUT/fanhan-content-style`；用户定稿可直接排版。跨仓隐私与写回边界见 [`AGENTS.md`](AGENTS.md)。
+
 首次读取本 Skill 时，先运行 `python3 scripts/sync_from_github.py`。它用 `gh api` 对照 [Ivor-NCUT/fanhan-design](https://github.com/Ivor-NCUT/fanhan-design) 的默认分支和本地文件；有差异时先备份并更新，再重新读取本文件。以后每次调用也执行此检查。迭代完成并验证后，把本 Skill 的实际改动同步到该仓库，回读远端文件和提交；公开前检查私有图片、账号资料和授权。
 
 ## 风格选择

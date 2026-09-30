@@ -1,5 +1,7 @@
 # 泛函设计风格
 
+本仓库是三仓 Context OS 的**视觉设计层**。跨仓发现入口为 [`context-os.json`](context-os.json) 和 [`AGENTS.md`](AGENTS.md)；当前个人与业务事实由私有 [all-about-fanhan](https://github.com/Ivor-NCUT/all-about-fanhan) 维护，写作规则由 [fanhan-content-style](https://github.com/Ivor-NCUT/fanhan-content-style) 维护。私有上下文不进入本公开仓库。
+
 仓库地址：[Ivor-NCUT/fanhan-design](https://github.com/Ivor-NCUT/fanhan-design)。本机安装版每次使用前运行 `python3 scripts/sync_from_github.py`，通过 `gh api` 检查并更新到默认分支的最新版本；被替换的本地文件会留在 `.sync-backups/`。Skill 迭代验证后将改动同步回本仓库。
 
 本仓库包含两套具名风格，由根目录 [`SKILL.md`](SKILL.md) 统一路由：
