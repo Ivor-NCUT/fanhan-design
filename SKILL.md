@@ -36,6 +36,8 @@ D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对�
 
 用户确认喜欢某个新设计时，在该设计的同一目录保存同名 `HTML + PNG + SVG` 三份实际文件：PNG 为所见画面，HTML 与 SVG 为可编辑源；在 [`references/approved-design-assets.md`](references/approved-design-assets.md) 和对应专项参考中把三份文件互相链接并标明用途、版本。运行 `python3 scripts/check_approved_visual_assets.py` 并目视核对三者。不得只保存风格描述、截图或单份 HTML；历史文件若不能完整复原，明确标注补制预览与原件的区别。
 
+用户认可的「A25 高级简约绿调」10 页参考与原尺寸编码复刻见 [`references/green-a25-templates.md`](references/green-a25-templates.md)，预览入口在 `assets/html-starters/green-a25/index.html`。复刻保留轮廓文字、局部照片及几何图层；不要把其轮廓源称为原生字体文本或原始 PPT 文件。
+
 PPT 的本轮已认可样板见 [`references/approved-ppt-examples.md`](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 E「双 Bento」、第 3 页 A、第 4 页 B「灵感轨道」。对应 PNG、可编辑 SVG 与 HTML 位于 `assets/html-starters/brand-ppt/`。
 
 泛函设计物料需要生成、改写或筛选文案时，先检查当前环境是否已安装

@@ -1,0 +1,62 @@
+[
+  {
+    "page": 2,
+    "mae": 1.066,
+    "pixels_within_10": 96.37,
+    "pixels_within_30": 99.23
+  },
+  {
+    "page": 3,
+    "mae": 1.665,
+    "pixels_within_10": 93.11,
+    "pixels_within_30": 99.58
+  },
+  {
+    "page": 4,
+    "mae": 1.363,
+    "pixels_within_10": 95.22,
+    "pixels_within_30": 98.85
+  },
+  {
+    "page": 5,
+    "mae": 3.162,
+    "pixels_within_10": 90.12,
+    "pixels_within_30": 97.21
+  },
+  {
+    "page": 6,
+    "mae": 1.942,
+    "pixels_within_10": 93.96,
+    "pixels_within_30": 98.18
+  },
+  {
+    "page": 7,
+    "mae": 1.042,
+    "pixels_within_10": 95.96,
+    "pixels_within_30": 99.45
+  },
+  {
+    "page": 8,
+    "mae": 2.185,
+    "pixels_within_10": 85.46,
+    "pixels_within_30": 99.32
+  },
+  {
+    "page": 9,
+    "mae": 1.478,
+    "pixels_within_10": 96.19,
+    "pixels_within_30": 98.75
+  },
+  {
+    "page": 10,
+    "mae": 1.533,
+    "pixels_within_10": 96.0,
+    "pixels_within_30": 98.89
+  },
+  {
+    "page": 11,
+    "mae": 1.558,
+    "pixels_within_10": 95.74,
+    "pixels_within_30": 98.8
+  }
+]

@@ -16,10 +16,11 @@ assert stems, "No approved visual assets linked"
 asset_dirs = [
     root / "assets/html-starters/brand-ppt",
     root / "assets/html-starters/title-styles",
+    root / "assets/html-starters/green-a25",
     root / "styles/洛言/examples",
 ]
 stored = {path.with_suffix("") for directory in asset_dirs
-          for path in directory.iterdir() if path.suffix in (".png", ".svg", ".html")}
+          for path in directory.iterdir() if path.suffix in (".png", ".svg", ".html") and path.name not in ("index.html", "comparison.png")}
 assert stems == stored, f"Approved asset index differs from stored assets: {stems ^ stored}"
 for stem in stems:
     files = {ext: stem.with_suffix(ext) for ext in (".png", ".svg", ".html")}

@@ -15,11 +15,15 @@
 
 本地安装时将仓库内容放入 Codex 技能目录 `泛函设计风格`，入口为根目录 `SKILL.md`。本仓库保留 Victor Design 的通用执行框架与原 MIT 许可说明。
 
+## A25 绿调模板
+
+[10 页原尺寸模板与来源说明](references/green-a25-templates.md) · [预览 / HTML 编辑](assets/html-starters/green-a25/index.html)。每页保存 JPEG 原图及同名 PNG / SVG / HTML。文字为矢量轮廓，照片保留为局部图像；不宣称是原始 PPT 或全矢量照片。
+
 ## 既有品牌体系
 
 本仓库沿用 Victor Design 的目录与执行框架；泛函的品牌判断和已确认样式以以下文件为准：
 
-- [已认可设计资产索引](references/approved-design-assets.md)：8 组横屏、竖屏、标题与 PPT 样板的 PNG、SVG、HTML 对照。新设计先选相近样板修改；用户不满意或不适用时再做新版式。
+- [已认可设计资产索引](references/approved-design-assets.md)：18 组横屏、竖屏、标题与 PPT 样板的 PNG、SVG、HTML 对照。新设计先选相近样板修改；用户不满意或不适用时再做新版式。
 - [视觉设计体系（文字版 v2）](references/fanhan-brand-system.md)：品牌情绪、排版、字体角色、颜色 token、摄影和四类载体规则。
 - [已选标题样式](references/title-styles.md)：D 小标题与 E PPT 标题页的适用场景和颜色。
 - [标题样式 D/E](references/title-styles.md)：各自的 PNG、SVG、HTML 存在 [`assets/html-starters/title-styles/`](assets/html-starters/title-styles/)；原[两款合并 HTML 参考](assets/html-starters/fanhan-title-styles.html)保留。
