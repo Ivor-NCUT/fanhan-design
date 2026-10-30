@@ -46,6 +46,8 @@ D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对�
 
 用户认可的「A25 高级简约绿调」10 页参考与原尺寸编码复刻见 [`references/green-a25-templates.md`](references/green-a25-templates.md)，预览入口在 `assets/html-starters/green-a25/index.html`。复刻保留轮廓文字、局部照片及几何图层；不要把其轮廓源称为原生字体文本或原始 PPT 文件。
 
+报告解读、财报解读、趋势分析类配图默认采用 3:4 信息可视化长图版式，规范见 [`references/report-infographic-3x4.md`](references/report-infographic-3x4.md)（用户 2026-10-30 推荐的即刻参考）。
+
 PPT 的本轮已认可样板见 [`references/approved-ppt-examples.md`](references/approved-ppt-examples.md)：第 1 页 A、第 2 页 E「双 Bento」、第 3 页 A、第 4 页 B「灵感轨道」。对应 PNG、可编辑 SVG 与 HTML 位于 `assets/html-starters/brand-ppt/`。
 
 泛函设计物料需要生成、改写或筛选文案时，先检查当前环境是否已安装
