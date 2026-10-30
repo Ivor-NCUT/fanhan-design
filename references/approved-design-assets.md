@@ -33,3 +33,7 @@
 | A25 09 · 最喜爱项目 | 16:9 原尺寸复刻 v1 | [PNG](../assets/html-starters/green-a25/a25-09.png) | [SVG](../assets/html-starters/green-a25/a25-09.svg) | [HTML](../assets/html-starters/green-a25/a25-09.html) |
 | A25 10 · 最近项目 | 16:9 原尺寸复刻 v1 | [PNG](../assets/html-starters/green-a25/a25-10.png) | [SVG](../assets/html-starters/green-a25/a25-10.svg) | [HTML](../assets/html-starters/green-a25/a25-10.html) |
 | A25 11 · 联系结束页 | 16:9 原尺寸复刻 v1 | [PNG](../assets/html-starters/green-a25/a25-11.png) | [SVG](../assets/html-starters/green-a25/a25-11.svg) | [HTML](../assets/html-starters/green-a25/a25-11.html) |
+
+## 用户指定的外部视觉参考（非可编辑模板）
+
+- **体验派 IP 生活感长海报**（2026-10-30）：用户指定后续长海报参考其风格、情绪、字体层级、排版、图标与装饰。见 [原图位置与逐段拆解](experience-long-poster.md)。2162 × 27620 原图及四段预览保存在本地 `assets/local-references/experience-long-poster/`，不随公开仓库分发，无 HTML/SVG 原始源。它不代表职业定位课程中间稿已获认可。

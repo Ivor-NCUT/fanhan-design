@@ -17,6 +17,8 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 
 ## 风格选择
 
+- **生活感丰富的长海报参考**：课程、社群和人物 IP 长海报优先查看用户指定的 [体验派 IP 视觉参考](references/experience-long-poster.md)，并打开其中登记的本地原图与分段。学习情绪、字体层级、场景和装饰关系，按新主题重构；它是外部栅格参考，不是可直接复制的自有模板。
+
 - **洛言**：职业服务、演示和长图需要暖白、深绿、阿里妈妈东方大楷、真实证据与黑绿价格场时，读取 [`styles/洛言/SKILL.md`](styles/洛言/SKILL.md)。横屏和竖屏分别重排；公开示例的私密图片已换成占位素材。
 - **泛函个人网站设计**：用户提到个人网站视觉、网页源码分析或原版 `fanhan-design-style` 时，读取 [`styles/泛函个人网站设计/SKILL.md`](styles/泛函个人网站设计/SKILL.md)。该目录完整保留旧 Skill 的参考资料和文案检查脚本。
 - 其他泛函视觉任务先读 `references/fanhan-brand-system.md`，再按下方执行框架选择对应载体。不得把任一具名风格当成所有任务的默认皮肤。
@@ -38,7 +40,9 @@ D 用于小标题（绿色已加深），E 用于 PPT 标题页。它们在对�
 
 所有已认可样板先查 [`references/approved-design-assets.md`](references/approved-design-assets.md)。新任务若有相同载体、相近内容结构的已认可样板，先复制其 HTML/SVG 版式并替换当前任务的文案、图片和品牌色，保留构图关系；直接给用户看首版修改稿，无需为沿用版式再次求批准。用户不满意该版式，或现有样板确实不适用，再设计新版式。用户明确要求全新方案时直接按新方案做。
 
-用户确认喜欢某个新设计时，在该设计的同一目录保存同名 `HTML + PNG + SVG` 三份实际文件：PNG 为所见画面，HTML 与 SVG 为可编辑源；在 [`references/approved-design-assets.md`](references/approved-design-assets.md) 和对应专项参考中把三份文件互相链接并标明用途、版本。运行 `python3 scripts/check_approved_visual_assets.py` 并目视核对三者。不得只保存风格描述、截图或单份 HTML；历史文件若不能完整复原，明确标注补制预览与原件的区别。
+用户确认喜欢我们制作的可编辑新设计时，在该设计的同一目录保存同名 `HTML + PNG + SVG` 三份实际文件：PNG 为所见画面，HTML 与 SVG 为可编辑源；在 [`references/approved-design-assets.md`](references/approved-design-assets.md) 和对应专项参考中把三份文件互相链接并标明用途、版本。运行 `python3 scripts/check_approved_visual_assets.py` 并目视核对三者。不得只保存风格描述、截图或单份 HTML；历史文件若不能完整复原，明确标注补制预览与原件的区别。
+
+用户提供的外部栅格参考另行登记原图、来源和风格拆解，不受上述三份源文件规则约束；不得为满足格式而伪造可编辑源，也不得把参考认可扩大为其素材的公开授权。
 
 用户认可的「A25 高级简约绿调」10 页参考与原尺寸编码复刻见 [`references/green-a25-templates.md`](references/green-a25-templates.md)，预览入口在 `assets/html-starters/green-a25/index.html`。复刻保留轮廓文字、局部照片及几何图层；不要把其轮廓源称为原生字体文本或原始 PPT 文件。
 
