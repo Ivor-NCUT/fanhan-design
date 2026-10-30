@@ -11,6 +11,10 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 
 首次读取本 Skill 时，先运行 `python3 scripts/sync_from_github.py`。它用 `gh api` 对照 [Ivor-NCUT/fanhan-design](https://github.com/Ivor-NCUT/fanhan-design) 的默认分支和本地文件；有差异时先备份并更新，再重新读取本文件。以后每次调用也执行此检查。迭代完成并验证后，把本 Skill 的实际改动同步到该仓库，回读远端文件和提交；公开前检查私有图片、账号资料和授权。
 
+## 默认编码式视觉生产
+
+用户已选择以后优先使用 HTML/CSS 与 SVG 生成设计。涉及参考拆解、长图、素材生成或连续精修时，先读取 [`references/operations/coding-visual-loop.md`](references/operations/coding-visual-loop.md)，执行「逐段设计—生成素材—真实渲染—看图调整」闭环。该模块也规定本次已授权改稿的执行边界；不把内部检查冒充用户认可，不把这次未确认的海报登记为已认可模板。
+
 ## 风格选择
 
 - **洛言**：职业服务、演示和长图需要暖白、深绿、阿里妈妈东方大楷、真实证据与黑绿价格场时，读取 [`styles/洛言/SKILL.md`](styles/洛言/SKILL.md)。横屏和竖屏分别重排；公开示例的私密图片已换成占位素材。
@@ -129,8 +133,8 @@ authority on voice.
    `references/operations/three-gates.md` — blocking rules, not paperwork to
    complete afterward.
 5. Conduct the design dialogue through the native structured prompt when
-   callable; otherwise ask in grouped plain prose. Never infer Gate 1
-   approval from the request.
+   callable; otherwise ask in grouped plain prose. For explicitly authorized revision work, apply the scoped exception in
+   `operations/coding-visual-loop.md`; otherwise never infer missing Gate 1 approval.
 
 Conditional tools — load only for the named need:
 

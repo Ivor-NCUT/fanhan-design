@@ -3,6 +3,10 @@
 Use `operations/execution.md` for the fields and release criteria. A control
 record is evidence of a decision, never a replacement for it.
 
+## 已有授权的编码改稿
+
+用户明确指定参考与修改目标并授权继续时，按 `coding-visual-loop.md` 在既定范围内逐段执行；不重新要求三方向选择或每段批准。此例外不产生新的用户认可，也不授权改变事实、身份或交付范围。其他新方向任务继续遵循以下门槛。
+
 ## Gate 1 — Proposition
 
 Treat Gate 1 as a visible state machine, not a sentence the executor can write
