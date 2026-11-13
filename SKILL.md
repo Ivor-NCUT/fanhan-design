@@ -29,6 +29,8 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 
 ## 泛函品牌层
 
+涉及 20% 俱乐部时，先读 [`references/20percent-club.md`](references/20percent-club.md)：与 Bonjour! 拉开视觉差异，同时保持相近的品牌气质。
+
 涉及李知遇时，先读 [`references/li-zhiyu-ip.md`](references/li-zhiyu-ip.md) 和其中的固定形象主图。李知遇是泛函团队第一个 AI 员工的虚拟 IP；人物、随身设备与办公室场景以该参考为准。
 
 处理「泛函」或「引力边缘」的视觉任务时，先读

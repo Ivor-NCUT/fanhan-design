@@ -42,6 +42,9 @@ statistics, product functions, or institutions.
   level has a distinct job — orientation, definition, human stake,
   annotation, credit. Several poetic sentences in the same register are not
   levels; additional lines are plain, factual, or structural.
+- 不加不必要的次级标签和说明文字，让版式本身完成解释（泛函，2026-11-11）。
+  层级、分组、对齐和留白已经说清的关系，不再用小标签、角标或解释句重复一遍；
+  只有承担真实信息或导航作用的标签才保留。
 - User-supplied corrections are applied verbatim. Every sentence in a
   deliverable is either approved source copy or explicitly flagged as newly
   drafted, so the user can veto it.
