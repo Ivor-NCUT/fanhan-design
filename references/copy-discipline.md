@@ -42,6 +42,12 @@ statistics, product functions, or institutions.
   level has a distinct job — orientation, definition, human stake,
   annotation, credit. Several poetic sentences in the same register are not
   levels; additional lines are plain, factual, or structural.
+- 不加不必要的次级标签和说明文字，让版式本身完成解释（泛函，2026-11-11）。
+  层级、分组、对齐和留白已经说清的关系，不再用小标签、角标或解释句重复一遍；
+  只有承担真实信息或导航作用的标签才保留。
+- 20% 俱乐部文案用「想一起创造的人」，不要用「想一起做事的人」（泛函，2026-11-14）。
+- 20% 俱乐部头图主张已锁定为「用 20% 的时间，探索下一个好机会，更快地获得收入回报。」（泛函，2026-11-14）；此前试过的「创造作品」「10 倍收入」「赚钱机会」表述已被明确否定，不再作为头图主张。
+
 - User-supplied corrections are applied verbatim. Every sentence in a
   deliverable is either approved source copy or explicitly flagged as newly
   drafted, so the user can veto it.

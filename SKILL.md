@@ -21,13 +21,15 @@ description: 泛函的跨载体视觉设计 Skill。按任务选择「洛言」�
 
 - **洛言**：职业服务、演示和长图需要暖白、深绿、阿里妈妈东方大楷、真实证据与黑绿价格场时，读取 [`styles/洛言/SKILL.md`](styles/洛言/SKILL.md)。横屏和竖屏分别重排；公开示例的私密图片已换成占位素材。
 - **泛函个人网站设计**：用户提到个人网站视觉、网页源码分析或原版 `fanhan-design-style` 时，读取 [`styles/泛函个人网站设计/SKILL.md`](styles/泛函个人网站设计/SKILL.md)。该目录完整保留旧 Skill 的参考资料和文案检查脚本。
-- 其他泛函视觉任务先读 `references/fanhan-brand-system.md`，再按下方执行框架选择对应载体。不得把任一具名风格当成所有任务的默认皮肤。
+- 其他泛函视觉任务先读 `references/fanhan-brand-system.md`，再按下方执行框架选择对应载体。不得把任一具名风格当成所有任务的默认皮肤。凡涉及 UI 或网页设计，必须先读取并使用 jakubkrehel 的 [better-ui](https://www.ui-skills.com/skills/jakubkrehel/better-ui) 进行设计（泛函，2026-11-16）；不可用 ui-ux-pro-max 或 frontend-design 替代。
 
 ## 设计与交付框架
 
 以下通用方法沿用 Victor Design，并由用户当前目标、已确认风格与具体素材约束决定实施范围。
 
 ## 泛函品牌层
+
+涉及 20% 俱乐部时，先读 [`references/20percent-club.md`](references/20percent-club.md)：与 Bonjour! 拉开视觉差异，同时保持相近的品牌气质；并遵循其中已锁定的头图主张、吉祥物与猫姿态、痛点页「你」字排版，以及 2026-11-17 起的奇幻冒险参考与亮色文字承托方式。
 
 涉及李知遇时，先读 [`references/li-zhiyu-ip.md`](references/li-zhiyu-ip.md) 和其中的固定形象主图。李知遇是泛函团队第一个 AI 员工的虚拟 IP；人物、随身设备与办公室场景以该参考为准。
 

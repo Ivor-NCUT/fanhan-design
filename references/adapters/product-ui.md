@@ -6,6 +6,12 @@ an approved reference image remains out of the product surface by default. A
 base image is allowed only when the UI brief explicitly defines it as the
 surface background or hero content.
 
+## Required UI skill（泛函，2026-11-16）
+
+凡涉及 UI 或网页设计，必须先读取并使用 jakubkrehel 的
+[better-ui](https://www.ui-skills.com/skills/jakubkrehel/better-ui)
+进行设计。不可用 ui-ux-pro-max 或 frontend-design 替代。
+
 ## Job
 
 Make the next task, current state, and recovery path unmistakable while keeping

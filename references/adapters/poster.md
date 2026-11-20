@@ -12,6 +12,7 @@
 - [Material and craft family](#material-and-craft-family)
 - [HTML-first master](#html-first-master)
 - [Composition discipline](#composition-discipline)
+- [Confirmed principles from Fanhan (2026-11-17)](#confirmed-principles-from-fanhan-2026-11-17)
 - [Delivery](#delivery)
 
 ## Job and boundary
@@ -272,6 +273,23 @@ measurement, or causal trace whose removal makes the project less clear.
 
 Text needs visible breathing room from edges, crops, rules, and containers.
 Fix structure or copy burden; never shrink type to hide a collision.
+
+## Confirmed principles from Fanhan (2026-11-17)
+
+These were stated on a 20% Club illustrated long poster and moodboard, but
+they were framed as rules for posters in general:
+
+- 向受众传递信息是首要目标，顺便让他们觉得好看，不能反过来先追求好看再顺便传递信息。文字应占主要部分并主导视觉。
+- 文字最好不遮住画面主体；但信息优先时，不得靠整幅压暗蒙版来换文字对比度。
+- When the brief uses a provided illustration as the overall background and
+  needs type to stay readable, prefer a relatively centered text block on a
+  local light rectangle, or a thin frame with decorative elements, rather
+  than a heavy dark wash over the whole image. On the 2026-11-17 fantasy
+  poster and moodboard, the requested face was Noto Serif SC; do not treat
+  that as a default brand font unless a later brief says so.
+
+Source quotes and the related 20% Club direction live in
+[`../20percent-club.md`](../20percent-club.md).
 
 ## Delivery
 
